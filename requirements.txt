@@ -1,0 +1,8 @@
+boto3
+dotenv
+chardet
+pdfplumber
+langchain_community
+langchain
+pinecone
+langchain-openai
